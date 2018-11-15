@@ -1,0 +1,26 @@
+/* CSS BOTON DEL ADIVINA */
+.fondo{
+	background-image: url("fondoAdivina.jpg");
+}
+
+.opacidad{
+	opacity: 0.8;
+}
+
+.acierto {
+	background: #76E896 !important;
+	color:black !important;
+}
+
+.fallo{
+	background: #E8403C !important;
+	color:black !important;
+}
+
+.botoncito{
+	width: 9%;
+	border: 2px solid transparent;
+	margin: 0.1%;
+	background: #DDAFFF;
+	color: #878787;
+}
